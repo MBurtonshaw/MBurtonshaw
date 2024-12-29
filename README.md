@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at ([my portfolio]https://matthew-burtonshaw.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://matthew-burtonshaw.netlify.app/)
 
 - 💬 Ask me about **React, Vue, or Java**
 
