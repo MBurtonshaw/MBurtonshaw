@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt Burtonshaw</h1>
 <h3 align="center">An enthusiastic full-stack developer from Cleveland, OH</h3>
 
-- 🔭 I’m currently working on [Sloppy Jo's Pizza](https://sloppy-jos-frontend.vercel.app/)
+- 🔭 I’m currently working on [Sloppy Jo's Pizza 2.0]([https://sloppy-jos-frontend.vercel.app/](https://sloppy-jos-2-0-react.vercel.app/))
 
 - 🌱 I’m currently learning **Spring Boot**
 
